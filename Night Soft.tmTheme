@@ -1041,6 +1041,17 @@
 				<string>#FFFFFF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS class</string>
+			<key>scope</key>
+			<string>source.css entity.other.attribute-name, source.scss entity.other.attribute-name, source.sass entity.other.attribute-name, source.stylus entity.other.attribute-name, source.styl entity.other.attribute-name, source.less entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#55E07F</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>83091B89-765E-4F0D-9275-0EC6CB084126</string>
