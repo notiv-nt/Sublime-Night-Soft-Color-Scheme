@@ -954,7 +954,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#063EB8</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1050,6 +1050,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#55E07F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS value</string>
+			<key>scope</key>
+			<string>support.constant.property-value</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 	</array>
