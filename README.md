@@ -1,4 +1,4 @@
-# Sublime text Night Soft color scheme
+# Sublime Text Night Soft color scheme
 
 ## Screenshots:
 
